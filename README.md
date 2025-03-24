@@ -60,6 +60,4 @@ pip install -r requirements.txt
 - Deploy a Web Application for user-friendly access.
 - Implement Bias Mitigation for fair job recommendations.
 
-## License
-This project is open-source and available under the MIT License.
 
